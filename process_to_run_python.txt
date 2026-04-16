@@ -8,3 +8,5 @@
 5. install packages from requirements.txt file
     pip install -r requirements.txt
 7. verify Langchain installation
+8. To pront chain diagram run this command
+    pip install grandalf
