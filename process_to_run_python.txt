@@ -2,8 +2,9 @@
 2. open it on editor
 3. create a new venv
     python -m venv venv
+    # here we used python3.12 -m venv .venv
 4. activate venv
-    venv\Scripts\Activate || source venv/bin/activate
+    venv\Scripts\Activate || source venv/bin/activate || source .venv/bin/activate
 5. install packages from requirements.txt file
     pip install -r requirements.txt
 7. verify Langchain installation
